@@ -1,3 +1,4 @@
+*This repo is moved from https://gitlab.com/alekseypopov10/*
 # 5. Doubly linked list
 
 The task is to implement doubly linked list data structure containing
